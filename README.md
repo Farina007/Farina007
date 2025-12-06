@@ -20,15 +20,9 @@ Apaixonado por criar interfaces intuitivas e soluções eficientes, unindo desig
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,powershell,nodejs,vscode,npm,bootstrap,arduino,androidstudio,postgres&perline=7">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,powershell,nodejs,vscode,npm,bootstrap,arduino,androidstudio,postgres,python&perline=7">
    </a>
 </p>
-
-<!-- Adicionados a pedido -->
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" />
-</div>
 
 ---
 
