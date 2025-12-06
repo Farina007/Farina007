@@ -19,7 +19,7 @@ Apaixonado por criar interfaces intuitivas e soluções eficientes, unindo desig
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,powershell,nodejs,vscode,npm,bootstrap,arduino,androidstudio,postgres,python,sqlserver&perline=7">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,powershell,nodejs,vscode,npm,bootstrap,arduino,androidstudio,postgres,python,aws&perline=7">
    </a>
 </p>
 
