@@ -9,8 +9,9 @@
 
 ---
 
-"Desenvolvedor focado em tecnologias modernas, com experiência em React Native, Expo, React Navigation, styled-components e navegação web.  
-Apaixonado por criar interfaces intuitivas e soluções eficientes, unindo design e funcionalidade para oferecer a melhor experiência ao usuário."
+"Profissional em início de carreira focado mais na área de Banco de Dados, com formação técnica em Desenvolvimento de Software e atualmente cursando Sistemas de Informação. Ao longo dos estudos, desenvolvi uma base sólida em lógica de programação, análise de requisitos e construção de aplicações, o que reforçou meu interesse pela área de dados.
+
+Tenho experiência prática com SQL Server e PostgreSQL, atuando na criação de tabelas, modelagem relacional, consultas SQL e rotinas básicas de manutenção. Também possuo noções de ETL, versionamento e uso de serviços em cloud como AWS, além de estar sempre buscando aprimorar minha capacidade de análise e otimização de consultas."
 
 ---
 
