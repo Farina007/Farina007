@@ -16,11 +16,10 @@ Apaixonado por criar interfaces intuitivas e soluções eficientes, unindo desig
 
 ## 🧰 Tecnologias e Ferramentas:
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;" align="center">
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,powershell,nodejs,vscode,npm,bootstrap,arduino,androidstudio,postgres,python&perline=7">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,powershell,nodejs,vscode,npm,bootstrap,arduino,androidstudio,postgres,python,sqlserver&perline=7">
    </a>
 </p>
 
